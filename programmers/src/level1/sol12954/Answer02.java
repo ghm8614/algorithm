@@ -1,0 +1,17 @@
+package level1.sol12954;
+
+public class Answer02 {
+
+	// 형변환
+	// 더하기
+	public long[] solution(int x, int n) {
+		long[] answer = new long[n];
+		long result = x;
+		for (int i = 0; i < n; i++) {
+			answer[i] = result;
+			result += x;
+		}
+
+		return answer;
+	}
+}
