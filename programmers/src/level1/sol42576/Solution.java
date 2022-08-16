@@ -2,6 +2,7 @@ package level1.sol42576;
 
 import java.util.Arrays;
 
+// 완주하지 못한 선수
 public class Solution {
 
 	public String solution(String[] participant, String[] completion) {
