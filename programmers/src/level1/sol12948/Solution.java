@@ -1,5 +1,6 @@
 package level1.sol12948;
 
+// 핸드폰 번호 가리기
 public class Solution {
 	// StringBuilder 메서드 사용 (replace())
 	// 정답이지만 
