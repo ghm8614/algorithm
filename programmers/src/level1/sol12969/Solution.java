@@ -2,6 +2,7 @@ package level1.sol12969;
 
 import java.util.Scanner;
 
+// 직사각형 별찍기
 public class Solution {
 
 	public static void main(String[] args) {
